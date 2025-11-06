@@ -1,0 +1,154 @@
+2025-10-26 12:43:31,573 - INFO - 
+================================================================================
+2025-10-26 12:43:31,589 - INFO - ================================================================================
+2025-10-26 12:43:31,719 - INFO - 
+2025-10-26 12:43:31,752 - INFO - ================================================================================
+
+2025-10-26 12:46:15,973 - INFO - 
+╔════════════════════════════════════════════════════════════════╗
+║         COLLECTEUR CONTINU DE DONNÉES - DÉMARRÉ               ║
+╚════════════════════════════════════════════════════════════════╝
+    
+2025-10-26 12:46:15,979 - INFO - ⏰ Intervalle configuré: toutes les 3 heures
+2025-10-26 12:46:15,980 - INFO - 📁 Logs: data/tracking/collector_log.txt
+2025-10-26 12:46:15,981 - INFO - 📊 Stats: data/tracking/session_stats.json
+
+2025-10-26 12:46:15,982 - INFO - 🎬 Première collecte (immédiate)...
+2025-10-26 12:46:15,983 - INFO - 
+================================================================================
+2025-10-26 12:46:15,983 - INFO - 🚀 DÉMARRAGE DE LA COLLECTE
+2025-10-26 12:46:15,984 - INFO - ================================================================================
+2025-10-26 12:46:16,150 - INFO - ✅ Collecte terminée: 0 nouvelles données en 0.2s
+2025-10-26 12:46:16,156 - INFO - 
+2025-10-26 12:46:16,159 - ERROR - ⚠️ Erreurs détectées:
+C:\Users\marys\Desktop\News_Trend_Analysis\venv\Scripts\python.exe: can't open file 'C:\\Users\\marys\\Desktop\\News_Trend_Analysis\\collect_data_tracking.py': [Errno 2] No such file or directory
+
+2025-10-26 12:46:16,160 - INFO - 
+📊 STATISTIQUES DE SESSION
+============================================================
+🔢 Exécutions totales: 2
+📦 Données collectées: 0
+📈 Moyenne (10 dernières): 0 nouvelles données
+⏱️  Temps moyen: 0.1s
+🕐 Démarré: 2025-10-26T12:43:31.359863
+============================================================
+
+2025-10-26 12:46:16,163 - INFO - ================================================================================
+
+2025-10-26 12:46:16,164 - INFO - ⏰ Prochaine collecte: dans 3 heures
+2025-10-26 12:46:16,164 - INFO - 🔄 Le collecteur tourne en continu. Appuyez sur Ctrl+C pour arrêter.
+
+2025-10-26 12:52:50,059 - INFO - 
+
+🛑 Arrêt du collecteur...
+2025-10-26 12:52:50,060 - INFO - 
+📊 STATISTIQUES DE SESSION
+============================================================
+🔢 Exécutions totales: 2
+📦 Données collectées: 0
+📈 Moyenne (10 dernières): 0 nouvelles données
+⏱️  Temps moyen: 0.1s
+🕐 Démarré: 2025-10-26T12:43:31.359863
+============================================================
+
+2025-10-26 12:52:50,061 - INFO - 👋 À bientôt!
+
+2025-10-26 12:57:01,932 - INFO - 
+======================================================================
+2025-10-26 12:57:01,933 - INFO -          COLLECTEUR CONTINU DE DONNEES - DEMARRE
+2025-10-26 12:57:01,933 - INFO - ======================================================================
+
+2025-10-26 12:57:01,934 - INFO - Intervalle configure: toutes les 3 heures
+2025-10-26 12:57:01,934 - INFO - Dossier de travail: c:\Users\marys\Desktop\News_Trend_Analysis\src
+2025-10-26 12:57:01,935 - INFO - Logs: c:\Users\marys\Desktop\News_Trend_Analysis\data\tracking\collector_log.txt
+2025-10-26 12:57:01,935 - INFO - Stats: c:\Users\marys\Desktop\News_Trend_Analysis\data\tracking\session_stats.json
+
+2025-10-26 12:57:01,936 - INFO - Premiere collecte (immediate)...
+
+2025-10-26 12:57:01,936 - INFO - 
+================================================================================
+2025-10-26 12:57:01,936 - INFO - DEMARRAGE DE LA COLLECTE
+2025-10-26 12:57:01,937 - INFO - ================================================================================
+2025-10-26 12:57:01,938 - INFO - Execution: c:\Users\marys\Desktop\News_Trend_Analysis\src\collect_data_tracking.py
+2025-10-26 12:57:05,231 - INFO - Collecte terminee: 0 nouvelles donnees en 3.3s
+2025-10-26 12:57:05,232 - INFO - 
+Resultat de la collecte:
+2025-10-26 12:57:05,232 - INFO - --------------------------------------------------------------------------------
+2025-10-26 12:57:05,233 - INFO - ================================================================================
+2025-10-26 12:57:05,234 - ERROR - 
+Erreurs detectees:
+2025-10-26 12:57:05,234 - ERROR - 2025-10-26 12:57:05,019 - INFO - [Tracking] Aucun historique trouv�, cr�ation d'un nouveau fichier
+Traceback (most recent call last):
+  File "c:\Users\marys\Desktop\News_Trend_Analysis\src\collect_data_tracking.py", line 569, in <module>
+    print("\U0001f4f0 COLLECTEUR AVEC TRACKING HISTORIQUE")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\marys\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4f0' in position 0: character maps to <undefined>
+
+2025-10-26 12:57:05,237 - INFO - 
+STATISTIQUES DE SESSION
+============================================================
+Executions totales: 3
+Donnees collectees: 0
+Moyenne (10 dernieres): 0 nouvelles donnees
+Temps moyen: 1.2s
+Demarre: 2025-10-26T12:43:31.359863
+============================================================
+
+2025-10-26 12:57:05,241 - INFO - ================================================================================
+
+2025-10-26 12:57:05,242 - INFO - 
+Prochaine collecte: dans 3 heures
+2025-10-26 12:57:05,243 - INFO - Le collecteur tourne en continu. Appuyez sur Ctrl+C pour arreter.
+
+2025-10-27 10:33:58,709 - INFO - 
+================================================================================
+2025-10-27 10:33:58,719 - INFO - DEMARRAGE DE LA COLLECTE
+2025-10-27 10:33:58,719 - INFO - ================================================================================
+2025-10-27 10:33:58,720 - INFO - Execution: c:\Users\marys\Desktop\News_Trend_Analysis\src\collect_data_tracking.py
+2025-10-27 10:34:09,181 - INFO - Collecte terminee: 0 nouvelles donnees en 10.5s
+2025-10-27 10:34:09,182 - INFO - 
+Resultat de la collecte:
+2025-10-27 10:34:09,183 - INFO - --------------------------------------------------------------------------------
+2025-10-27 10:34:09,183 - INFO - ================================================================================
+2025-10-27 10:34:09,184 - ERROR - 
+Erreurs detectees:
+2025-10-27 10:34:09,184 - ERROR - 2025-10-27 10:34:08,864 - INFO - [Tracking] Aucun historique trouv�, cr�ation d'un nouveau fichier
+Traceback (most recent call last):
+  File "c:\Users\marys\Desktop\News_Trend_Analysis\src\collect_data_tracking.py", line 569, in <module>
+    print("\U0001f4f0 COLLECTEUR AVEC TRACKING HISTORIQUE")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\marys\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4f0' in position 0: character maps to <undefined>
+
+2025-10-27 10:34:09,192 - INFO - 
+STATISTIQUES DE SESSION
+============================================================
+Executions totales: 4
+Donnees collectees: 0
+Moyenne (10 dernieres): 0 nouvelles donnees
+Temps moyen: 3.5s
+Demarre: 2025-10-26T12:43:31.359863
+============================================================
+
+2025-10-27 10:34:09,194 - INFO - ================================================================================
+
+2025-10-27 10:36:08,732 - INFO - 
+
+Arret du collecteur...
+2025-10-27 10:36:08,737 - INFO - 
+STATISTIQUES DE SESSION
+============================================================
+Executions totales: 4
+Donnees collectees: 0
+Moyenne (10 dernieres): 0 nouvelles donnees
+Temps moyen: 3.5s
+Demarre: 2025-10-26T12:43:31.359863
+============================================================
+
+2025-10-27 10:36:08,744 - INFO - Au revoir!
+

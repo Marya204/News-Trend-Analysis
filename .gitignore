@@ -1,0 +1,10 @@
+# Ne jamais partager les clés API
+.env
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Logs ou fichiers inutiles
+*.log
+*.tmp
